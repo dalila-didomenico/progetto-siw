@@ -24,7 +24,7 @@ public class LoginController extends HttpServlet {
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public LoginController() {
+    public LoginController() { //arrivato il commento??
         super();
         // TODO Auto-generated constructor stub
     }
